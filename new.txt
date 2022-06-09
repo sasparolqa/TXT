@@ -1,0 +1,8 @@
+name Aleksander 
+surname Sas
+age 24
+animals
+dog Barsik
+cat Vannesa
+salary 500
+
