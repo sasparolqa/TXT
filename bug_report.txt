@@ -1,0 +1,20 @@
+Environment
+macOS Big Sur(11.3.1).Google Chrome(96.0.4664.110 ) WI-FI
+PreConditions link
+Bag -report
+
+ID 1
+Description -    The text "web-designer" is written through a hyphen in the header of the site when the site is open
+ STR: 
+
+1.Сlick on the https://www.davydovconsulting.com/
+2.Сlick on the "Email" field and enter valid email "alexander@gmail.com"
+3.Сlick on the "Password" field and enter valid password"1111"
+4.Сlick on the "Repeat password" field and enter valid repeat password"1111"
+5.Click the button "Зарегистрироваться"
+
+Result - There is no notification about incorrect or  incorrectly entered values in the field
+Expected result  -  Notification that a field cannot contain only a spaces
+Severity -  Major
+Priority- Medium 
+Status - TO DO
