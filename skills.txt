@@ -1,0 +1,4 @@
+theoryTesting Testing types, testing approach,SDLC
+testingApi SoapUI,Postman,Charles Proxy
+ data PostgreSQL,My SQL
+
